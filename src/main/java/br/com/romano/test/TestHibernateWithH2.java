@@ -10,7 +10,7 @@ import javax.persistence.Query;
 import br.com.romano.model.Product;
 
 public class TestHibernateWithH2 {
-
+	//test
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
